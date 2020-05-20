@@ -1,6 +1,10 @@
 # Unsupervised Phase Learning
 Supplementary materials and preprint for a paper "Unsupervised Phase Learning and Extraction from Quasiperiodic Multidimensional Time-series Data".
 
+## Videos
+Proceed to this playlist 
+https://www.youtube.com/playlist?list=PLz_fePYLwCF4OKExZV9XqGS6PM1uE4Feb
+
 ## Preprint?
 Currently, the full text paper (PDF) and all supplementary materials are available for free at https://authors.elsevier.com/a/1b54P5aecShD%7EW until July 06, 2020. After that, the preprint will be uploaded here.
 
