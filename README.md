@@ -1,6 +1,8 @@
 # Unsupervised Phase Learning
 Supplementary materials and preprint for a paper "Unsupervised Phase Learning and Extraction from Quasiperiodic Multidimensional Time-series Data".
 
+![](image/zoom_ecg.png)
+
 ## Videos
 Proceed to this playlist 
 https://www.youtube.com/playlist?list=PLz_fePYLwCF4OKExZV9XqGS6PM1uE4Feb
